@@ -13,12 +13,12 @@ S No, Exercise, Workflow
 12, Working with Databases, https://flowgear.me/s/QIiKOSy
 13, ETL, https://flowgear.me/s/6eLCP7x
 14, Key-Value Report, https://flowgear.me/s/cWBdweF
-15, One Extract-Many Load (Parent), https://flowgear.me/s/74g34rE
-15, One Extract - Many Load (Child), https://flowgear.me/s/JPVYlNl
-16, Many Extract - One Load (Parent), https://flowgear.me/s/QNF5FAl
-16, Many Extract - One Load (Child), https://flowgear.me/s/Af0mbvq
-17, Enqueue, https://flowgear.me/s/rqhFsvI
-17, Dequeue, https://flowgear.me/s/Mn4nG09
+15a, One Extract-Many Load (Parent), https://flowgear.me/s/74g34rE
+15b, One Extract - Many Load (Child), https://flowgear.me/s/JPVYlNl
+16a, Many Extract - One Load (Parent), https://flowgear.me/s/QNF5FAl
+16b, Many Extract - One Load (Child), https://flowgear.me/s/Af0mbvq
+17a, Enqueue, https://flowgear.me/s/rqhFsvI
+17b, Dequeue, https://flowgear.me/s/Mn4nG09
 18, Cached Result, https://flowgear.me/s/qQyun8W
 19, API, https://flowgear.me/s/85bKCaF
 21, Release Management, https://flowgear.me/s/JRuC2J
